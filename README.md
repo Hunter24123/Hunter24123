@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning for network administrator and some basic coding
 - 📫 How to reach me justin.henkes.2005@gmail.com
 - 😄 Gener: Male
-- ⚡ Fun fact: future student Pilot
+
 
 <!---
 Hunter24123/Hunter24123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
