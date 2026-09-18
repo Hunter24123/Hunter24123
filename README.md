@@ -2,7 +2,7 @@
 - 👀 I’m interested in aviation and coding
 - 🌱 I’m currently learning for network administrator and some basic coding
 - 📫 How to reach me justin.henkes.2005@gmail.com
-- 😄 Gener: Male
+- 😄 Gender: Male
 
 
 <!---
